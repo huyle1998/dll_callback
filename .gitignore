@@ -1,0 +1,8 @@
+.vs/
+dll_callback/x64/
+csharp_app/obj/
+csharp_app/bin/
+python_app/dll_callback.dll
+python_app/dll_callback.pdb
+python_app/dll_callback.lib
+python_app/dll_callback.exp
